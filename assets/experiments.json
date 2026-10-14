@@ -1,0 +1,1582 @@
+{
+  "handover": {
+    "attempt": "handover_003",
+    "trigger_step": 144,
+    "handoff_step": 644,
+    "end_step": 821,
+    "control_hz": 50,
+    "frame_offset": 1,
+    "task_success": true,
+    "context": "Natural missed grasp \u00b7 same run as overview",
+    "samples": [
+      {
+        "step": 100,
+        "probability": 0.0467217929661274,
+        "phase": "acquire"
+      },
+      {
+        "step": 106,
+        "probability": 0.3794114410877228,
+        "phase": "acquire"
+      },
+      {
+        "step": 112,
+        "probability": 0.3858800113201141,
+        "phase": "acquire"
+      },
+      {
+        "step": 118,
+        "probability": 0.3774925768375397,
+        "phase": "acquire"
+      },
+      {
+        "step": 125,
+        "probability": 0.4276068150997162,
+        "phase": "acquire"
+      },
+      {
+        "step": 131,
+        "probability": 0.48694228529930117,
+        "phase": "acquire"
+      },
+      {
+        "step": 137,
+        "probability": 0.6203126668930053,
+        "phase": "acquire"
+      },
+      {
+        "step": 143,
+        "probability": 0.7239675402641297,
+        "phase": "acquire"
+      },
+      {
+        "step": 150,
+        "probability": 0.9477285146713257,
+        "phase": "acquire"
+      },
+      {
+        "step": 156,
+        "probability": 0.9968235731124878,
+        "phase": "acquire"
+      },
+      {
+        "step": 162,
+        "probability": 0.9987207651138306,
+        "phase": "acquire"
+      },
+      {
+        "step": 168,
+        "probability": 0.9993874430656433,
+        "phase": "acquire"
+      },
+      {
+        "step": 175,
+        "probability": 0.9995101094245911,
+        "phase": "acquire"
+      },
+      {
+        "step": 181,
+        "probability": 0.9991215229034424,
+        "phase": "acquire"
+      },
+      {
+        "step": 187,
+        "probability": 0.9958900451660156,
+        "phase": "acquire"
+      },
+      {
+        "step": 193,
+        "probability": 0.9961005687713623,
+        "phase": "acquire"
+      },
+      {
+        "step": 200,
+        "probability": 0.9874591708183289,
+        "phase": "acquire"
+      },
+      {
+        "step": 206,
+        "probability": 0.9660409450531006,
+        "phase": "acquire"
+      },
+      {
+        "step": 212,
+        "probability": 0.8435638904571533,
+        "phase": "acquire"
+      },
+      {
+        "step": 218,
+        "probability": 0.7349874138832092,
+        "phase": "acquire"
+      },
+      {
+        "step": 225,
+        "probability": 0.5656234681606293,
+        "phase": "acquire"
+      },
+      {
+        "step": 231,
+        "probability": 0.49887325763702395,
+        "phase": "acquire"
+      },
+      {
+        "step": 237,
+        "probability": 0.38884992599487306,
+        "phase": "acquire"
+      },
+      {
+        "step": 243,
+        "probability": 0.30851560533046724,
+        "phase": "acquire"
+      },
+      {
+        "step": 250,
+        "probability": 0.3163513273000717,
+        "phase": "unknown"
+      },
+      {
+        "step": 256,
+        "probability": 0.34403238594532015,
+        "phase": "unknown"
+      },
+      {
+        "step": 262,
+        "probability": 0.13235140666365625,
+        "phase": "unknown"
+      },
+      {
+        "step": 268,
+        "probability": 0.07203583642840386,
+        "phase": "unknown"
+      },
+      {
+        "step": 275,
+        "probability": 0.06462219208478928,
+        "phase": "unknown"
+      },
+      {
+        "step": 281,
+        "probability": 0.07207209467887879,
+        "phase": "transport"
+      },
+      {
+        "step": 287,
+        "probability": 0.020856702141463755,
+        "phase": "transport"
+      },
+      {
+        "step": 293,
+        "probability": 0.08899767622351647,
+        "phase": "transport"
+      },
+      {
+        "step": 300,
+        "probability": 0.07340117245912552,
+        "phase": "transport"
+      },
+      {
+        "step": 306,
+        "probability": 0.16013163179159165,
+        "phase": "unknown"
+      },
+      {
+        "step": 312,
+        "probability": 0.059841178357601166,
+        "phase": "transport"
+      },
+      {
+        "step": 318,
+        "probability": 0.09498553574085236,
+        "phase": "transport"
+      },
+      {
+        "step": 325,
+        "probability": 0.09599530100822448,
+        "phase": "transport"
+      },
+      {
+        "step": 331,
+        "probability": 0.16101083755493165,
+        "phase": "unknown"
+      },
+      {
+        "step": 337,
+        "probability": 0.09639049917459488,
+        "phase": "unknown"
+      },
+      {
+        "step": 343,
+        "probability": 0.28765196800231935,
+        "phase": "unknown"
+      },
+      {
+        "step": 350,
+        "probability": 0.4676345646381378,
+        "phase": "unknown"
+      },
+      {
+        "step": 356,
+        "probability": 0.43926638960838316,
+        "phase": "unknown"
+      },
+      {
+        "step": 362,
+        "probability": 0.44949917793273925,
+        "phase": "unknown"
+      },
+      {
+        "step": 368,
+        "probability": 0.35217360556125643,
+        "phase": "unknown"
+      },
+      {
+        "step": 375,
+        "probability": 0.46411374807357786,
+        "phase": "unknown"
+      },
+      {
+        "step": 381,
+        "probability": 0.5189007103443146,
+        "phase": "unknown"
+      },
+      {
+        "step": 387,
+        "probability": 0.4613394469022751,
+        "phase": "unknown"
+      },
+      {
+        "step": 393,
+        "probability": 0.5693818926811218,
+        "phase": "unknown"
+      },
+      {
+        "step": 400,
+        "probability": 0.45390591621398924,
+        "phase": "unknown"
+      },
+      {
+        "step": 406,
+        "probability": 0.5538725078105926,
+        "phase": "unknown"
+      },
+      {
+        "step": 412,
+        "probability": 0.43691693246364594,
+        "phase": "unknown"
+      },
+      {
+        "step": 418,
+        "probability": 0.33663827925920486,
+        "phase": "unknown"
+      },
+      {
+        "step": 425,
+        "probability": 0.2854676127433777,
+        "phase": "acquire"
+      },
+      {
+        "step": 431,
+        "probability": 0.2521745264530182,
+        "phase": "acquire"
+      },
+      {
+        "step": 437,
+        "probability": 0.057858044654130934,
+        "phase": "acquire"
+      },
+      {
+        "step": 443,
+        "probability": 0.05013163238763809,
+        "phase": "acquire"
+      },
+      {
+        "step": 450,
+        "probability": 0.04354590848088265,
+        "phase": "acquire"
+      },
+      {
+        "step": 456,
+        "probability": 0.03442551083862781,
+        "phase": "acquire"
+      },
+      {
+        "step": 462,
+        "probability": 0.01679243128746748,
+        "phase": "acquire"
+      },
+      {
+        "step": 468,
+        "probability": 0.007746799197047949,
+        "phase": "acquire"
+      },
+      {
+        "step": 475,
+        "probability": 0.004638039926066995,
+        "phase": "acquire"
+      },
+      {
+        "step": 481,
+        "probability": 0.0029895455110818146,
+        "phase": "acquire"
+      },
+      {
+        "step": 487,
+        "probability": 0.0018033355241641401,
+        "phase": "acquire"
+      },
+      {
+        "step": 493,
+        "probability": 0.0012365048751235008,
+        "phase": "acquire"
+      },
+      {
+        "step": 500,
+        "probability": 0.0009526391047984361,
+        "phase": "acquire"
+      },
+      {
+        "step": 506,
+        "probability": 0.0007785949972458183,
+        "phase": "acquire"
+      },
+      {
+        "step": 512,
+        "probability": 0.0007975745131261647,
+        "phase": "acquire"
+      },
+      {
+        "step": 518,
+        "probability": 0.0009137705783359706,
+        "phase": "acquire"
+      },
+      {
+        "step": 525,
+        "probability": 0.001394005143083632,
+        "phase": "acquire"
+      },
+      {
+        "step": 531,
+        "probability": 0.0009669335384387523,
+        "phase": "acquire"
+      },
+      {
+        "step": 537,
+        "probability": 0.0006841062160674483,
+        "phase": "acquire"
+      },
+      {
+        "step": 543,
+        "probability": 0.0006659939652308821,
+        "phase": "acquire"
+      },
+      {
+        "step": 550,
+        "probability": 0.00049666459672153,
+        "phase": "acquire"
+      },
+      {
+        "step": 556,
+        "probability": 0.00045253306743688884,
+        "phase": "acquire"
+      },
+      {
+        "step": 562,
+        "probability": 0.0003860345808789134,
+        "phase": "acquire"
+      },
+      {
+        "step": 568,
+        "probability": 0.00035386314848437903,
+        "phase": "acquire"
+      },
+      {
+        "step": 575,
+        "probability": 0.0003124225593637675,
+        "phase": "acquire"
+      },
+      {
+        "step": 581,
+        "probability": 0.00026571311173029244,
+        "phase": "acquire"
+      },
+      {
+        "step": 587,
+        "probability": 0.00022489060938823968,
+        "phase": "acquire"
+      },
+      {
+        "step": 593,
+        "probability": 0.00019467584206722677,
+        "phase": "acquire"
+      },
+      {
+        "step": 600,
+        "probability": 0.00018683258385863156,
+        "phase": "acquire"
+      },
+      {
+        "step": 606,
+        "probability": 0.00018155427242163568,
+        "phase": "acquire"
+      },
+      {
+        "step": 612,
+        "probability": 0.000177386641735211,
+        "phase": "acquire"
+      },
+      {
+        "step": 618,
+        "probability": 0.00016402750625275076,
+        "phase": "acquire"
+      },
+      {
+        "step": 625,
+        "probability": 0.00016541068034712226,
+        "phase": "acquire"
+      },
+      {
+        "step": 631,
+        "probability": 0.00015498961438424884,
+        "phase": "unknown"
+      },
+      {
+        "step": 637,
+        "probability": 0.00015090446395333857,
+        "phase": "transport"
+      },
+      {
+        "step": 643,
+        "probability": 0.0001568971056258306,
+        "phase": "transport"
+      },
+      {
+        "step": 650,
+        "probability": 0.00022794093529228122,
+        "phase": "transport"
+      },
+      {
+        "step": 656,
+        "probability": 0.0001668365963269025,
+        "phase": "transport"
+      },
+      {
+        "step": 662,
+        "probability": 0.00015694884350523353,
+        "phase": "transport"
+      },
+      {
+        "step": 668,
+        "probability": 0.00016908232355490328,
+        "phase": "transport"
+      },
+      {
+        "step": 675,
+        "probability": 0.0001768207352142781,
+        "phase": "transport"
+      },
+      {
+        "step": 681,
+        "probability": 0.0001833964284742251,
+        "phase": "transport"
+      },
+      {
+        "step": 687,
+        "probability": 0.000189522304572165,
+        "phase": "transport"
+      },
+      {
+        "step": 693,
+        "probability": 0.00019393983529880643,
+        "phase": "transport"
+      },
+      {
+        "step": 700,
+        "probability": 0.00017805396346375345,
+        "phase": "transport"
+      },
+      {
+        "step": 706,
+        "probability": 0.00018087525968439876,
+        "phase": "transport"
+      },
+      {
+        "step": 712,
+        "probability": 0.0002204875141615048,
+        "phase": "transport"
+      },
+      {
+        "step": 718,
+        "probability": 0.0002519132860470563,
+        "phase": "transport"
+      },
+      {
+        "step": 725,
+        "probability": 0.0003024862351594493,
+        "phase": "transport"
+      },
+      {
+        "step": 731,
+        "probability": 0.00026687987556215373,
+        "phase": "transport"
+      },
+      {
+        "step": 737,
+        "probability": 0.00035111623583361506,
+        "phase": "transport"
+      },
+      {
+        "step": 743,
+        "probability": 0.00035795900039374827,
+        "phase": "transport"
+      },
+      {
+        "step": 750,
+        "probability": 0.0003416442254092544,
+        "phase": "unknown"
+      },
+      {
+        "step": 756,
+        "probability": 0.0003010362299392,
+        "phase": "unknown"
+      },
+      {
+        "step": 762,
+        "probability": 0.00028669664752669635,
+        "phase": "place"
+      },
+      {
+        "step": 768,
+        "probability": 0.000270123069640249,
+        "phase": "place"
+      },
+      {
+        "step": 775,
+        "probability": 0.0002758684771833941,
+        "phase": "place"
+      },
+      {
+        "step": 781,
+        "probability": 0.0002864645270165056,
+        "phase": "place"
+      },
+      {
+        "step": 787,
+        "probability": 0.0003038644441403449,
+        "phase": "place"
+      },
+      {
+        "step": 793,
+        "probability": 0.00027506720507517455,
+        "phase": "place"
+      },
+      {
+        "step": 800,
+        "probability": 0.0002510044985683635,
+        "phase": "place"
+      },
+      {
+        "step": 806,
+        "probability": 0.0002577523875515908,
+        "phase": "place"
+      },
+      {
+        "step": 812,
+        "probability": 0.00024186450755223632,
+        "phase": "place"
+      },
+      {
+        "step": 818,
+        "probability": 0.00026883575483225284,
+        "phase": "place"
+      }
+    ],
+    "source_case": "handover_natural_20261007/attempts/handover_003",
+    "shared_with_overview": true,
+    "failure_source": "natural",
+    "missed_grasp_step": 144,
+    "recovered_grasp_step": 624,
+    "natural_action_audit_passed": true,
+    "visible_failure_before_trigger": true,
+    "detail_replay": {
+      "start_seconds": 1.6,
+      "end_seconds": 13.0,
+      "playback_speed": 0.5,
+      "observer_crop": [
+        480,
+        350,
+        620,
+        520
+      ]
+    }
+  },
+  "mobile": {
+    "attempt": "locopick_014",
+    "trigger_step": 144,
+    "handoff_step": 289,
+    "end_step": 790,
+    "control_hz": 50,
+    "frame_offset": 1,
+    "task_success": true,
+    "context": "Controlled grasp perturbation",
+    "samples": [
+      {
+        "step": 100,
+        "probability": 0.009360288362950086,
+        "phase": "acquire"
+      },
+      {
+        "step": 106,
+        "probability": 0.009846202656626701,
+        "phase": "acquire"
+      },
+      {
+        "step": 112,
+        "probability": 0.02389582563191652,
+        "phase": "acquire"
+      },
+      {
+        "step": 118,
+        "probability": 0.031625547260046,
+        "phase": "acquire"
+      },
+      {
+        "step": 125,
+        "probability": 0.030242632515728472,
+        "phase": "acquire"
+      },
+      {
+        "step": 131,
+        "probability": 0.05568690113723278,
+        "phase": "acquire"
+      },
+      {
+        "step": 137,
+        "probability": 0.12882376164197923,
+        "phase": "acquire"
+      },
+      {
+        "step": 143,
+        "probability": 0.36771627366542814,
+        "phase": "acquire"
+      },
+      {
+        "step": 150,
+        "probability": 0.9393284797668457,
+        "phase": "acquire"
+      },
+      {
+        "step": 156,
+        "probability": 0.9952340722084045,
+        "phase": "acquire"
+      },
+      {
+        "step": 162,
+        "probability": 0.9983479142189026,
+        "phase": "acquire"
+      },
+      {
+        "step": 168,
+        "probability": 0.9990826845169067,
+        "phase": "acquire"
+      },
+      {
+        "step": 175,
+        "probability": 0.9993842005729675,
+        "phase": "acquire"
+      },
+      {
+        "step": 181,
+        "probability": 0.9994935154914856,
+        "phase": "acquire"
+      },
+      {
+        "step": 187,
+        "probability": 0.9995162725448609,
+        "phase": "acquire"
+      },
+      {
+        "step": 193,
+        "probability": 0.9995261073112488,
+        "phase": "acquire"
+      },
+      {
+        "step": 200,
+        "probability": 0.9995545744895935,
+        "phase": "acquire"
+      },
+      {
+        "step": 206,
+        "probability": 0.9995603919029236,
+        "phase": "acquire"
+      },
+      {
+        "step": 212,
+        "probability": 0.9995737433433532,
+        "phase": "acquire"
+      },
+      {
+        "step": 218,
+        "probability": 0.9989868044853211,
+        "phase": "acquire"
+      },
+      {
+        "step": 225,
+        "probability": 0.9983359456062317,
+        "phase": "acquire"
+      },
+      {
+        "step": 231,
+        "probability": 0.9980006694793702,
+        "phase": "acquire"
+      },
+      {
+        "step": 237,
+        "probability": 0.9975253462791442,
+        "phase": "acquire"
+      },
+      {
+        "step": 243,
+        "probability": 0.9970733165740967,
+        "phase": "acquire"
+      },
+      {
+        "step": 250,
+        "probability": 0.9951587796211243,
+        "phase": "acquire"
+      },
+      {
+        "step": 256,
+        "probability": 0.9925659894943237,
+        "phase": "acquire"
+      },
+      {
+        "step": 262,
+        "probability": 0.9894499540328979,
+        "phase": "acquire"
+      },
+      {
+        "step": 268,
+        "probability": 0.9829064965248108,
+        "phase": "unknown"
+      },
+      {
+        "step": 275,
+        "probability": 0.9657604217529296,
+        "phase": "transport"
+      },
+      {
+        "step": 281,
+        "probability": 0.9078608274459838,
+        "phase": "transport"
+      },
+      {
+        "step": 287,
+        "probability": 0.5249143064022064,
+        "phase": "transport"
+      },
+      {
+        "step": 293,
+        "probability": 0.0942901587113738,
+        "phase": "transport"
+      },
+      {
+        "step": 300,
+        "probability": 0.03067912640981376,
+        "phase": "transport"
+      },
+      {
+        "step": 306,
+        "probability": 0.0038259112974628807,
+        "phase": "transport"
+      },
+      {
+        "step": 312,
+        "probability": 0.0008615567174274474,
+        "phase": "transport"
+      },
+      {
+        "step": 318,
+        "probability": 0.0008408975729253144,
+        "phase": "transport"
+      },
+      {
+        "step": 325,
+        "probability": 0.0005363506439607591,
+        "phase": "transport"
+      },
+      {
+        "step": 331,
+        "probability": 0.0005017553223297,
+        "phase": "transport"
+      },
+      {
+        "step": 337,
+        "probability": 0.0002408288564765826,
+        "phase": "transport"
+      },
+      {
+        "step": 343,
+        "probability": 0.00042786752746906134,
+        "phase": "transport"
+      },
+      {
+        "step": 350,
+        "probability": 0.0006340038205962628,
+        "phase": "transport"
+      },
+      {
+        "step": 356,
+        "probability": 0.0005929677397944033,
+        "phase": "transport"
+      },
+      {
+        "step": 362,
+        "probability": 0.00026197916304226965,
+        "phase": "transport"
+      },
+      {
+        "step": 368,
+        "probability": 0.00023171667708083988,
+        "phase": "transport"
+      },
+      {
+        "step": 375,
+        "probability": 0.0003836810647044331,
+        "phase": "transport"
+      },
+      {
+        "step": 381,
+        "probability": 0.0006297485844697804,
+        "phase": "transport"
+      },
+      {
+        "step": 387,
+        "probability": 0.0008014896651729941,
+        "phase": "transport"
+      },
+      {
+        "step": 393,
+        "probability": 0.00021704269165638833,
+        "phase": "transport"
+      },
+      {
+        "step": 400,
+        "probability": 0.00028456692525651305,
+        "phase": "transport"
+      },
+      {
+        "step": 406,
+        "probability": 0.0003993220074335113,
+        "phase": "transport"
+      },
+      {
+        "step": 412,
+        "probability": 0.00046757797827012837,
+        "phase": "transport"
+      },
+      {
+        "step": 418,
+        "probability": 0.00044466633116826417,
+        "phase": "transport"
+      },
+      {
+        "step": 425,
+        "probability": 0.00027920651773456485,
+        "phase": "transport"
+      },
+      {
+        "step": 431,
+        "probability": 0.00045148518111091105,
+        "phase": "transport"
+      },
+      {
+        "step": 437,
+        "probability": 0.0005537528020795434,
+        "phase": "transport"
+      },
+      {
+        "step": 443,
+        "probability": 0.0007174477039370685,
+        "phase": "transport"
+      },
+      {
+        "step": 450,
+        "probability": 0.00029198041011113673,
+        "phase": "transport"
+      },
+      {
+        "step": 456,
+        "probability": 0.0003072332445299253,
+        "phase": "transport"
+      },
+      {
+        "step": 462,
+        "probability": 0.00044657819962594657,
+        "phase": "transport"
+      },
+      {
+        "step": 468,
+        "probability": 0.0002620045212097466,
+        "phase": "transport"
+      },
+      {
+        "step": 475,
+        "probability": 0.0005503093416336924,
+        "phase": "transport"
+      },
+      {
+        "step": 481,
+        "probability": 0.00017601128056412562,
+        "phase": "transport"
+      },
+      {
+        "step": 487,
+        "probability": 0.00015376672527054325,
+        "phase": "transport"
+      },
+      {
+        "step": 493,
+        "probability": 0.0002019488310907036,
+        "phase": "transport"
+      },
+      {
+        "step": 500,
+        "probability": 0.0001787613844498992,
+        "phase": "transport"
+      },
+      {
+        "step": 506,
+        "probability": 0.00024126889184117317,
+        "phase": "transport"
+      },
+      {
+        "step": 512,
+        "probability": 0.00018997582665178925,
+        "phase": "transport"
+      },
+      {
+        "step": 518,
+        "probability": 0.0002056832512607798,
+        "phase": "transport"
+      },
+      {
+        "step": 525,
+        "probability": 0.0002156799368094653,
+        "phase": "transport"
+      },
+      {
+        "step": 531,
+        "probability": 0.00025121694488916546,
+        "phase": "transport"
+      },
+      {
+        "step": 537,
+        "probability": 0.00041854468872770667,
+        "phase": "transport"
+      },
+      {
+        "step": 543,
+        "probability": 0.00038536410429514947,
+        "phase": "transport"
+      },
+      {
+        "step": 550,
+        "probability": 0.0003107071213889867,
+        "phase": "transport"
+      },
+      {
+        "step": 556,
+        "probability": 0.00027510019717738035,
+        "phase": "transport"
+      },
+      {
+        "step": 562,
+        "probability": 0.00034904343483503907,
+        "phase": "transport"
+      },
+      {
+        "step": 568,
+        "probability": 0.0004468131461180747,
+        "phase": "transport"
+      },
+      {
+        "step": 575,
+        "probability": 0.0004713868722319603,
+        "phase": "transport"
+      },
+      {
+        "step": 581,
+        "probability": 0.0003309707681182772,
+        "phase": "transport"
+      },
+      {
+        "step": 587,
+        "probability": 0.0003140743297990412,
+        "phase": "transport"
+      },
+      {
+        "step": 593,
+        "probability": 0.0003667921206215397,
+        "phase": "transport"
+      },
+      {
+        "step": 600,
+        "probability": 0.0004523266281466931,
+        "phase": "transport"
+      },
+      {
+        "step": 606,
+        "probability": 0.0007290969253517688,
+        "phase": "unknown"
+      },
+      {
+        "step": 612,
+        "probability": 0.0008017561282031238,
+        "phase": "unknown"
+      },
+      {
+        "step": 618,
+        "probability": 0.0005847803899087012,
+        "phase": "place"
+      },
+      {
+        "step": 625,
+        "probability": 0.0005616302834823728,
+        "phase": "place"
+      },
+      {
+        "step": 631,
+        "probability": 0.0009223405155353248,
+        "phase": "place"
+      },
+      {
+        "step": 637,
+        "probability": 0.0040617326740175486,
+        "phase": "place"
+      },
+      {
+        "step": 643,
+        "probability": 0.0018452088348567485,
+        "phase": "place"
+      },
+      {
+        "step": 650,
+        "probability": 0.0008031728793866932,
+        "phase": "place"
+      },
+      {
+        "step": 656,
+        "probability": 0.0006479169533122331,
+        "phase": "place"
+      },
+      {
+        "step": 662,
+        "probability": 0.0006663050502538681,
+        "phase": "place"
+      },
+      {
+        "step": 668,
+        "probability": 0.00402390374802053,
+        "phase": "place"
+      },
+      {
+        "step": 675,
+        "probability": 0.0064125279895961285,
+        "phase": "place"
+      },
+      {
+        "step": 681,
+        "probability": 0.009511558059602975,
+        "phase": "place"
+      },
+      {
+        "step": 687,
+        "probability": 0.005528415273874998,
+        "phase": "place"
+      },
+      {
+        "step": 693,
+        "probability": 0.003998957434669137,
+        "phase": "place"
+      },
+      {
+        "step": 700,
+        "probability": 0.03713370598852635,
+        "phase": "place"
+      },
+      {
+        "step": 706,
+        "probability": 0.050072389841079715,
+        "phase": "place"
+      },
+      {
+        "step": 712,
+        "probability": 0.05341205969452858,
+        "phase": "place"
+      },
+      {
+        "step": 718,
+        "probability": 0.004907892318442464,
+        "phase": "place"
+      },
+      {
+        "step": 725,
+        "probability": 0.0046085091307759285,
+        "phase": "place"
+      },
+      {
+        "step": 731,
+        "probability": 0.03501260951161385,
+        "phase": "place"
+      },
+      {
+        "step": 737,
+        "probability": 0.04372878782451153,
+        "phase": "place"
+      },
+      {
+        "step": 743,
+        "probability": 0.006031189393252134,
+        "phase": "place"
+      },
+      {
+        "step": 750,
+        "probability": 0.0013237850507721305,
+        "phase": "place"
+      },
+      {
+        "step": 756,
+        "probability": 0.0035537893418222666,
+        "phase": "place"
+      },
+      {
+        "step": 762,
+        "probability": 0.006607398483902216,
+        "phase": "place"
+      },
+      {
+        "step": 768,
+        "probability": 0.015046992525458335,
+        "phase": "place"
+      },
+      {
+        "step": 775,
+        "probability": 0.030552808940410615,
+        "phase": "place"
+      },
+      {
+        "step": 781,
+        "probability": 0.26146947741508486,
+        "phase": "place"
+      },
+      {
+        "step": 787,
+        "probability": 0.6909536957740784,
+        "phase": "place"
+      }
+    ],
+    "source_case": "recovery_chain_slope/attempts/locopick_014",
+    "shared_with_overview": false,
+    "failure_source": "controlled"
+  },
+  "container": {
+    "attempt": "hugcontainer_030",
+    "trigger_step": 169,
+    "handoff_step": 297,
+    "end_step": 576,
+    "control_hz": 50,
+    "frame_offset": 1,
+    "task_success": true,
+    "context": "Controlled grasp perturbation",
+    "samples": [
+      {
+        "step": 100,
+        "probability": 9.886881889542565e-05,
+        "phase": "acquire"
+      },
+      {
+        "step": 106,
+        "probability": 9.365020378027111e-05,
+        "phase": "acquire"
+      },
+      {
+        "step": 112,
+        "probability": 0.00013615326315630227,
+        "phase": "acquire"
+      },
+      {
+        "step": 118,
+        "probability": 0.0001674768136581406,
+        "phase": "acquire"
+      },
+      {
+        "step": 125,
+        "probability": 0.0002391406160313636,
+        "phase": "acquire"
+      },
+      {
+        "step": 131,
+        "probability": 0.0004943925305269659,
+        "phase": "acquire"
+      },
+      {
+        "step": 137,
+        "probability": 0.00031546427635475993,
+        "phase": "acquire"
+      },
+      {
+        "step": 143,
+        "probability": 0.0009568239329382777,
+        "phase": "acquire"
+      },
+      {
+        "step": 150,
+        "probability": 0.11959770321846008,
+        "phase": "acquire"
+      },
+      {
+        "step": 156,
+        "probability": 0.921882688999176,
+        "phase": "acquire"
+      },
+      {
+        "step": 162,
+        "probability": 0.9765738248825073,
+        "phase": "acquire"
+      },
+      {
+        "step": 168,
+        "probability": 0.924744725227356,
+        "phase": "acquire"
+      },
+      {
+        "step": 175,
+        "probability": 0.7852165102958679,
+        "phase": "acquire"
+      },
+      {
+        "step": 181,
+        "probability": 0.6449296474456787,
+        "phase": "acquire"
+      },
+      {
+        "step": 187,
+        "probability": 0.6320363879203796,
+        "phase": "acquire"
+      },
+      {
+        "step": 193,
+        "probability": 0.5439085364341736,
+        "phase": "acquire"
+      },
+      {
+        "step": 200,
+        "probability": 0.6708140969276428,
+        "phase": "acquire"
+      },
+      {
+        "step": 206,
+        "probability": 0.9305917620658875,
+        "phase": "acquire"
+      },
+      {
+        "step": 212,
+        "probability": 0.980148434638977,
+        "phase": "acquire"
+      },
+      {
+        "step": 218,
+        "probability": 0.9842165112495422,
+        "phase": "acquire"
+      },
+      {
+        "step": 225,
+        "probability": 0.9852210879325867,
+        "phase": "acquire"
+      },
+      {
+        "step": 231,
+        "probability": 0.9832028150558472,
+        "phase": "acquire"
+      },
+      {
+        "step": 237,
+        "probability": 0.9846950173377991,
+        "phase": "acquire"
+      },
+      {
+        "step": 243,
+        "probability": 0.9931477904319763,
+        "phase": "acquire"
+      },
+      {
+        "step": 250,
+        "probability": 0.9985438585281372,
+        "phase": "acquire"
+      },
+      {
+        "step": 256,
+        "probability": 0.9994369149208069,
+        "phase": "acquire"
+      },
+      {
+        "step": 262,
+        "probability": 0.9997296929359436,
+        "phase": "acquire"
+      },
+      {
+        "step": 268,
+        "probability": 0.9998098015785217,
+        "phase": "acquire"
+      },
+      {
+        "step": 275,
+        "probability": 0.9998189806938171,
+        "phase": "unknown"
+      },
+      {
+        "step": 281,
+        "probability": 0.9998300075531006,
+        "phase": "unknown"
+      },
+      {
+        "step": 287,
+        "probability": 0.9998424053192139,
+        "phase": "approach"
+      },
+      {
+        "step": 293,
+        "probability": 0.9998683929443359,
+        "phase": "unknown"
+      },
+      {
+        "step": 300,
+        "probability": 0.9997960925102234,
+        "phase": "place"
+      },
+      {
+        "step": 306,
+        "probability": 0.9997832179069519,
+        "phase": "place"
+      },
+      {
+        "step": 312,
+        "probability": 0.9997702240943909,
+        "phase": "place"
+      },
+      {
+        "step": 318,
+        "probability": 0.9996479749679565,
+        "phase": "place"
+      },
+      {
+        "step": 325,
+        "probability": 0.9992077946662903,
+        "phase": "place"
+      },
+      {
+        "step": 331,
+        "probability": 0.9986611604690552,
+        "phase": "place"
+      },
+      {
+        "step": 337,
+        "probability": 0.9973753690719604,
+        "phase": "release"
+      },
+      {
+        "step": 343,
+        "probability": 0.9913404583930969,
+        "phase": "release"
+      },
+      {
+        "step": 350,
+        "probability": 0.9633159041404724,
+        "phase": "release"
+      },
+      {
+        "step": 356,
+        "probability": 0.7314700484275818,
+        "phase": "release"
+      },
+      {
+        "step": 362,
+        "probability": 0.0902022272348404,
+        "phase": "release"
+      },
+      {
+        "step": 368,
+        "probability": 0.010184312239289284,
+        "phase": "release"
+      },
+      {
+        "step": 375,
+        "probability": 0.003023478202521801,
+        "phase": "release"
+      },
+      {
+        "step": 381,
+        "probability": 0.0014099052641540766,
+        "phase": "release"
+      },
+      {
+        "step": 387,
+        "probability": 0.000985501566901803,
+        "phase": "release"
+      },
+      {
+        "step": 393,
+        "probability": 0.0015022705774754286,
+        "phase": "release"
+      },
+      {
+        "step": 400,
+        "probability": 0.00044068542774766684,
+        "phase": "release"
+      },
+      {
+        "step": 406,
+        "probability": 0.00025730603374540806,
+        "phase": "release"
+      },
+      {
+        "step": 412,
+        "probability": 0.00010950273281196132,
+        "phase": "release"
+      },
+      {
+        "step": 418,
+        "probability": 7.177356746979058e-05,
+        "phase": "unknown"
+      },
+      {
+        "step": 425,
+        "probability": 5.832190436194651e-05,
+        "phase": "place"
+      },
+      {
+        "step": 431,
+        "probability": 6.558698078151792e-05,
+        "phase": "place"
+      },
+      {
+        "step": 437,
+        "probability": 7.93502404121682e-05,
+        "phase": "place"
+      },
+      {
+        "step": 443,
+        "probability": 9.128475358011201e-05,
+        "phase": "place"
+      },
+      {
+        "step": 450,
+        "probability": 9.258140198653564e-05,
+        "phase": "place"
+      },
+      {
+        "step": 456,
+        "probability": 0.00010454089351696894,
+        "phase": "place"
+      },
+      {
+        "step": 462,
+        "probability": 0.00010823176853591576,
+        "phase": "place"
+      },
+      {
+        "step": 468,
+        "probability": 0.0001100421286537312,
+        "phase": "place"
+      },
+      {
+        "step": 475,
+        "probability": 0.00010748078057076782,
+        "phase": "place"
+      },
+      {
+        "step": 481,
+        "probability": 0.00011019701196346432,
+        "phase": "place"
+      },
+      {
+        "step": 487,
+        "probability": 0.00011516693484736606,
+        "phase": "place"
+      },
+      {
+        "step": 493,
+        "probability": 0.00011779164924519137,
+        "phase": "place"
+      },
+      {
+        "step": 500,
+        "probability": 0.00010755469702417031,
+        "phase": "place"
+      },
+      {
+        "step": 506,
+        "probability": 0.0001008098988677375,
+        "phase": "place"
+      },
+      {
+        "step": 512,
+        "probability": 0.00010862776980502531,
+        "phase": "place"
+      },
+      {
+        "step": 518,
+        "probability": 0.00010613667836878449,
+        "phase": "place"
+      },
+      {
+        "step": 525,
+        "probability": 0.00010107238631462678,
+        "phase": "place"
+      },
+      {
+        "step": 531,
+        "probability": 9.510797099210322e-05,
+        "phase": "place"
+      },
+      {
+        "step": 537,
+        "probability": 0.0001154898272943683,
+        "phase": "place"
+      },
+      {
+        "step": 543,
+        "probability": 0.0001194225114886649,
+        "phase": "place"
+      },
+      {
+        "step": 550,
+        "probability": 0.0001267841726075858,
+        "phase": "place"
+      },
+      {
+        "step": 556,
+        "probability": 0.00010880131594603881,
+        "phase": "place"
+      },
+      {
+        "step": 562,
+        "probability": 9.25436252146028e-05,
+        "phase": "place"
+      },
+      {
+        "step": 568,
+        "probability": 0.00010026181553257629,
+        "phase": "place"
+      },
+      {
+        "step": 575,
+        "probability": 0.00011125623859697953,
+        "phase": "unknown"
+      }
+    ],
+    "source_case": "recovery_chain_slope/attempts/hugcontainer_030",
+    "shared_with_overview": false,
+    "failure_source": "controlled"
+  }
+}

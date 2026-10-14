@@ -1,0 +1,133 @@
+{
+  "manuscript": "figures/R2C_LfC_2026_v3.tex",
+  "notes": [
+    "All videos show simulated Unitree G1 executions.",
+    "The overview and Handover demo show the same successful run, handover_natural_20261007/attempts/handover_003, in simultaneous observer and ego views.",
+    "The Handover miss is natural: no injected perturbation or human takeover; nominal commands and visible pre-trigger failure were audited.",
+    "Handover reaches the original task-success criterion based on target-container contact; this does not require complete hand release or settled placement.",
+    "Mobile Pick & Place and HugContainer remain explicitly labeled controlled grasp perturbations.",
+    "The close-up replay shows source seconds 1.6\u201313.0 at explicitly labeled 0.5x speed; full videos retain original timing.",
+    "The older third-person comparison shows grasp-stage excerpts: nominal seconds 0\u20139 and recovery seconds 0\u201315, at original speed.",
+    "Comparison runs are independent stochastic executions, not matched-state counterfactuals.",
+    "Task-gallery clips are selected development successes, not a success-rate estimate.",
+    "Uniform gamma adjustment brightens third-person footage. All presentation filters are recorded per asset; no scene content is altered.",
+    "Gallery timestamps use frame(step+1)/50; probabilities are original, unsmoothed monitor samples."
+  ],
+  "assets": [
+    {
+      "output": "assets/videos/recovery-overview.mp4",
+      "source": "handover_natural_20261007/attempts/handover_003/result.third_person.mp4",
+      "source_sha256": "8cd3f0c04c8114bd176c8e13ef44b81027327c97198c121338c0940687651eeb",
+      "filters": "crop=1440:900:0:90,eq=gamma=1.18,scale=1120:700",
+      "fps": 25,
+      "playback_speed": "1x",
+      "audio": "removed; source is a simulation recording",
+      "excerpt_seconds": "complete recording"
+    },
+    {
+      "output": "assets/videos/handover-grasp-detail.mp4",
+      "source": "handover_natural_20261007/attempts/handover_003/result.third_person.mp4",
+      "source_sha256": "8cd3f0c04c8114bd176c8e13ef44b81027327c97198c121338c0940687651eeb",
+      "filters": "crop=620:520:480:350,eq=gamma=1.18,scale=832:-2,setpts=PTS/0.5",
+      "fps": 25,
+      "playback_speed": "0.5x",
+      "audio": "removed; source is a simulation recording",
+      "excerpt_seconds": [
+        1.6,
+        13.0
+      ]
+    },
+    {
+      "output": "assets/videos/comparison-nominal.mp4",
+      "source": "locopick_third_person/nominal_001/result.third_person.mp4",
+      "source_sha256": "43c579ca1db5e6787991def4ea5eb831e48fbfdf96db57030173a0cec8e8f050",
+      "filters": "eq=gamma=1.18,scale=800:600",
+      "fps": 25,
+      "playback_speed": "1x",
+      "audio": "removed; source is a simulation recording",
+      "excerpt_seconds": [
+        0,
+        9
+      ]
+    },
+    {
+      "output": "assets/videos/comparison-recovery.mp4",
+      "source": "locopick_third_person/recovery_001/result.third_person.mp4",
+      "source_sha256": "bb3d12f9741ddf61c7ba77fafec0a911548cb49b5a2cd48c6793277f142e0ed2",
+      "filters": "eq=gamma=1.18,scale=800:600",
+      "fps": 25,
+      "playback_speed": "1x",
+      "audio": "removed; source is a simulation recording",
+      "excerpt_seconds": [
+        0,
+        15
+      ]
+    },
+    {
+      "output": "assets/videos/handover.mp4",
+      "source": "handover_natural_20261007/attempts/handover_003/result.mp4",
+      "source_sha256": "3d589494a3ae851a77168fe6daee9d7719a08431583d8da67354186bef2dc188",
+      "filters": "scale=640:-2",
+      "fps": 25,
+      "playback_speed": "1x",
+      "audio": "removed; source is a simulation recording",
+      "excerpt_seconds": "complete recording"
+    },
+    {
+      "output": "assets/videos/mobile.mp4",
+      "source": "recovery_chain_slope/attempts/locopick_014/result.mp4",
+      "source_sha256": "fcb3c0da27eacca2901bf70482aab2841d1bc40992b900d0f384886353a32186",
+      "filters": "scale=640:-2",
+      "fps": 25,
+      "playback_speed": "1x",
+      "audio": "removed; source is a simulation recording",
+      "excerpt_seconds": "complete recording"
+    },
+    {
+      "output": "assets/videos/container.mp4",
+      "source": "recovery_chain_slope/attempts/hugcontainer_030/result.mp4",
+      "source_sha256": "d472e20c19cf5814abba46fcc3642a02441efda7a4afe11a85e0c7084cd05834",
+      "filters": "scale=640:-2",
+      "fps": 25,
+      "playback_speed": "1x",
+      "audio": "removed; source is a simulation recording",
+      "excerpt_seconds": "complete recording"
+    },
+    {
+      "output": "assets/images/handover-missed.webp",
+      "source": "handover_natural_20261007/attempts/handover_003/result.third_person.mp4",
+      "source_control_step": 144,
+      "filters": "crop=620:520:480:350,eq=gamma=1.18",
+      "source_sha256": "8cd3f0c04c8114bd176c8e13ef44b81027327c97198c121338c0940687651eeb"
+    },
+    {
+      "output": "assets/images/handover-recovered.webp",
+      "source": "handover_natural_20261007/attempts/handover_003/result.third_person.mp4",
+      "source_control_step": 624,
+      "filters": "crop=620:520:480:350,eq=gamma=1.18",
+      "source_sha256": "8cd3f0c04c8114bd176c8e13ef44b81027327c97198c121338c0940687651eeb"
+    },
+    {
+      "output": "assets/images/handover-completed.webp",
+      "source": "handover_natural_20261007/attempts/handover_003/result.mp4",
+      "source_control_step": 821,
+      "filters": "scale=640:-2",
+      "source_sha256": "3d589494a3ae851a77168fe6daee9d7719a08431583d8da67354186bef2dc188"
+    },
+    {
+      "output": "assets/images/method-overview.webp",
+      "source": "paper/figures/overview.pdf",
+      "processing": "PDF rasterization only; no changes to figure content"
+    },
+    {
+      "output": "assets/images/failure-monitoring.webp",
+      "source": "paper/figures/failure_probability_keyframes.pdf",
+      "processing": "PDF rasterization only; no changes to figure content"
+    },
+    {
+      "output": "assets/images/recovery-chains.webp",
+      "source": "paper/figures/recovery_chain_successes_v2_2.pdf",
+      "processing": "PDF rasterization only; no changes to figure content"
+    }
+  ]
+}
